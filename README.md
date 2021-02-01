@@ -13,19 +13,23 @@
         </p>
     <h2>Ferramentas utilizadas</h2>
     <ul>
-      <p>Linguagens / Frameworks / Libs</p>
-        <li>Java 8</li>
-        <li>HTML 5</li>
-        <li>CSS 3</li>
-        <li>Javascript</li>
-        <li>Boostrap</li>
-        <li>Ajax</li>
-        <p>Editores de código</p>
-        <li>apache NetBeans</li>
-        <li>Visual Studio Code</li>
-        <p>Ambiente de HML e PRD</p>
-        <li>Apache HTTP Server</li>
-    </ul> 
+    <h3>Linguagens / Frameworks / Libs</h3>
+      <li>Java 8</li>
+      <li>HTML 5</li>
+      <li>CSS 3</li>
+      <li>Javascript</li>
+      <li>Boostrap</li>
+      <li>Ajax</li>
+      <h3>
+          Editores de código
+      </h3>
+      <li>apache NetBeans</li>
+      <li>Visual Studio Code</li>
+      <h3>
+          Ambiente de HML e PRD
+      </h3>
+      <li>Apache HTTP Server</li>
+  </ul> 
     <p>Curso Resilia Educação: https://www.resilia.work</p>
 </body>
 </html>
