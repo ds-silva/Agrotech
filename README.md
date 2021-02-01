@@ -24,7 +24,7 @@
       <h3>
           Editores de código
       </h3>
-      <li>apache NetBeans</li>
+      <li>Apache NetBeans</li>
       <li>Visual Studio Code</li>
       <h3>
           Ambiente de HML e PRD
