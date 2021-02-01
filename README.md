@@ -15,6 +15,7 @@
     <ul>
     <h3>Linguagens / Frameworks / Libs</h3>
       <li>Java 8</li>
+      <li>JSP</li>
       <li>HTML 5</li>
       <li>CSS 3</li>
       <li>Javascript</li>
