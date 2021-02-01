@@ -20,11 +20,12 @@
         <li>Javascript</li>
         <li>Boostrap</li>
         <li>Ajax</li>
-        <p>Editopres de código</p>
+        <p>Editores de código</p>
         <li>apache NetBeans</li>
         <li>Visual Studio Code</li>
         <p>Ambiente de HML e PRD</p>
         <li>Apache HTTP Server</li>
-    </ul>
+    </ul> 
+    <p>Curso Resilia Educação: https://www.resilia.work</p>
 </body>
 </html>
